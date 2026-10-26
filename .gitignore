@@ -1,0 +1,11 @@
+sim/
+*.vcd
+*.dot
+*.out
+*.log
+a.out
+obj_dir/
+/sim_sw
+/sim_hardware
+/sim_pipeline
+/sw/main.elf
